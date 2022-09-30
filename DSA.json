@@ -288,6 +288,15 @@
         "topic" : "DSA_array",
         "question" : "Minimum Product Subarray Problem",
         "answerLink" : "https://www.geeksforgeeks.org/maximum-product-subarray/"
+        
+        
+           {
+       "id" : "145",
+       "topic" : "DSA - Binary Tree",
+       "question" : "What is binary tree data structure?",
+       "answerLink" : "https://www.bing.com/ck/a?!&&p=60a1ca7c2e73a8d3JmltdHM9MTY2NDQ5NjAwMCZpZ3VpZD0wMDYwZGM0My04MGY3LTYzYmQtM2M2OS1jYzMxODE1ZjYyM2EmaW5zaWQ9NTQ1Ng&ptn=3&hsh=3&fclid=0060dc43-80f7-63bd-3c69-cc31815f623a&psq=what+is+binary+tree+in+data+structure&u=a1aHR0cHM6Ly93d3cuc2NhbGVyLmNvbS90b3BpY3MvZGF0YS1zdHJ1Y3R1cmVzL2JpbmFyeS10cmVlLWluLWRhdGEtc3RydWN0dXJlLw&ntb=1"
+   },
+
   
 ]
 
